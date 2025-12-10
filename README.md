@@ -6,6 +6,8 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+<img width="1520" height="870" alt="20251210103519" src="https://github.com/user-attachments/assets/381d4a2e-7e22-4922-a895-11511a10b842" />
+
 ## ✨ 功能特性
 
 - **屏幕标尺** - 在屏幕顶部和左侧显示半透明标尺，支持像素、厘米、英寸三种单位
@@ -104,4 +106,5 @@ MIT License
 ---
 
 如果这个项目对你有帮助，欢迎给个 ⭐ Star！
+
 
