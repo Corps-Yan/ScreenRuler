@@ -8,7 +8,7 @@ A Windows desktop tool for screen measurements, layout inspection, and alignment
 ![Platform](https://img.shields.io/badge/Platform-Windows_x64-lightgrey)
 ![Version](https://img.shields.io/badge/Version-1.2.1-blue)
 
-[Downloads](../../releases) · [Default keys](#default-keys) · [Build and verify](#build-and-verify) · [1.2.1 release guide (Chinese)](docs/RELEASE_1.2.1.md)
+[Downloads](../../releases) · [Default keys](#default-keys) · [Build and verify](#build-and-verify)
 
 ![ScreenRuler desktop rulers and guidelines](https://github.com/user-attachments/assets/381d4a2e-7e22-4922-a895-11511a10b842)
 
