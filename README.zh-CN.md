@@ -8,7 +8,7 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows_x64-lightgrey)
 ![Version](https://img.shields.io/badge/Version-1.2.1-blue)
 
-[下载版本](../../releases) · [默认按键](#默认按键) · [构建与验证](#构建与验证) · [1.2.1 发布指南](docs/RELEASE_1.2.1.md)
+[下载版本](../../releases) · [默认按键](#默认按键) · [构建与验证](#构建与验证)
 
 ![ScreenRuler 桌面标尺与参考线示例](https://github.com/user-attachments/assets/381d4a2e-7e22-4922-a895-11511a10b842)
 
